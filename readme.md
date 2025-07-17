@@ -28,7 +28,7 @@ This project demonstrates **DOM manipulation**, **Event Handling**, and **Random
 ---
 
 ##  Live Demo
-[Click Here to View Live](https://github.com/jaskaransingh2121/color-changer-app.git)
+[Click Here to View Live](https://jaskaransingh2121.github.io/color-changer-app/)
 
 ---
 
