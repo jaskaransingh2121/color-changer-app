@@ -32,7 +32,3 @@ This project demonstrates **DOM manipulation**, **Event Handling**, and **Random
 
 ---
 
-##  How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-github-username/colourchangerapp.git
