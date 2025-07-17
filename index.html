@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colour Changer App</title>
+</head>
+<style>
+    body{
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 50px;
+        transition: background-color 0.3s ease;
+    }
+    button{
+        padding: 10px 20px;
+        cursor: pointer;
+        border: none;
+        font-size: 18px;
+        color: #fff;
+        border-radius: 5px;
+    }
+    .red{background-color: red;}
+    .blue{background-color: blue;}
+    .green{background-color: green;}
+    .yellow{background-color: yellow; color: black;}
+    .random { background-color: purple; }
+    .reset { background-color: gray; }
+</style>
+<body>
+    <h1>Colour Changer App</h1>
+    <h2>Current Color: <span id="color-name">White</span></h2>
+    <button class="red">Red</button>
+    <button class="blue">Blue</button>
+    <button class="green">Green</button>
+    <button class="yellow">Yellow</button>
+    <button class="random">Random</button>
+    <button class="reset">Reset</button>
+    <script src="script.js"></script>
+</body>
+</html>
