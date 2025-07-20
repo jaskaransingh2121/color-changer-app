@@ -28,7 +28,7 @@ This project demonstrates **DOM manipulation**, **Event Handling**, and **Random
 ---
 
 ##  Live Demo
-[Click Here to View Live](https://jaskaransingh2121.github.io/color-changer-app/)
+[Click Here to View Live](https://colorify-switch.netlify.app/)
 
 ---
 
